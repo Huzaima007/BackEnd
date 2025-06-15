@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Huzaima007/BackEnd#readme",
+  "bugs": {
+    "url": "https://github.com/Huzaima007/BackEnd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huzaima007/BackEnd.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index .js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
